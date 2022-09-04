@@ -7,7 +7,7 @@ This GitHub organization will be used for the development of plugins and etc. An
 Connect using this following IP:
 
 ```
-play.toxicgens.net
+play.toxicmc.org
 ```
 
 ## Are we the real owners?
