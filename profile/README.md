@@ -1,4 +1,4 @@
-# ToxicGens MC
+# RiotMC
 
 This GitHub organization will be used for the development of plugins and etc. And only be accessible to owners and developers.
 
@@ -7,13 +7,13 @@ This GitHub organization will be used for the development of plugins and etc. An
 Connect using this following IP:
 
 ```
-play.toxicgens.net
+play.riotmc.net
 ```
 
 ## Are we the real owners?
 
-We are the real owners, if you need more clarification join our [discord](htps://dsc.gg/gens) and DM ``Nick.#0110`` or ``Dexoo_#4585``
+We are the real owners, if you need more clarification join our [discord](htps://discord.gg/riotmc) and DM ``Nicc#0110`` or ``slxcko#0101``
 
 ## Questions
 
-If you have any questions please ask in the Discord
+If you have any questions please ask on the Fourms 
